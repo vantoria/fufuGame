@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: 6e8ab3694fea6f749981b3f3d9482fd5
+timeCreated: 1513069018
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: number_0
+    21300002: number_1
+    21300004: number_2
+    21300006: number_3
+    21300008: number_4
+    21300010: number_5
+    21300012: number_6
+    21300014: number_7
+    21300016: number_8
+    21300018: number_9
+    21300020: number_10
+    21300022: number_11
+    21300024: number_12
+    21300026: number_13
+    21300028: number_14
+    21300030: number_15
+    21300032: number_16
+    21300034: number_17
+    21300036: number_18
+    21300038: number_19
+    21300040: number_20
+    21300042: number_21
+    21300044: number_22
+    21300046: number_23
+    21300048: number_24
+    21300050: number_25
+    21300052: number_26
+    21300054: number_27
+    21300056: number_28
+    21300058: number_29
+    21300060: number_30
+    21300062: number_31
+    21300064: number_32
+    21300066: number_33
+    21300068: number_34
+    21300070: number_35
+    21300072: number_36
+    21300074: number_37
+    21300076: number_38
+    21300078: number_39
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 1158, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: number_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 25
+        width: 47
+        height: 77
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: number_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 27
+        width: 23
+        height: 75
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: number_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 27
+        width: 45
+        height: 76
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: number_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 27
+        width: 44
+        height: 77
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: number_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 28
+        width: 52
+        height: 75
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: number_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 27
+        width: 44
+        height: 76
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: number_6
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 27
+        width: 48
+        height: 77
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: number_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 28
+        width: 46
+        height: 75
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: number_8
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 28
+        width: 47
+        height: 77
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: number_9
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 28
+        width: 48
+        height: 78
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -600, y: 40}
+      - {x: -602, y: 23}
+      - {x: -602, y: -34}
+      - {x: -595, y: -41}
+      - {x: -566, y: -41}
+      - {x: -551, y: -34}
+      - {x: -551, y: 25}
+      - {x: -561, y: 40}
+    - - {x: -454, y: 40}
+      - {x: -467, y: 32}
+      - {x: -467, y: 27}
+      - {x: -464, y: 20}
+      - {x: -460, y: 21}
+      - {x: -452, y: -37}
+      - {x: -450, y: -39}
+      - {x: -442, y: -39}
+      - {x: -440, y: -37}
+      - {x: -440, y: 40}
+    - - {x: -304, y: 41}
+      - {x: -336, y: 41}
+      - {x: -338, y: 40}
+      - {x: -344, y: 35}
+      - {x: -344, y: 34}
+      - {x: -340, y: 22}
+      - {x: -344, y: -13}
+      - {x: -344, y: -37}
+      - {x: -343, y: -39}
+      - {x: -297, y: -39}
+      - {x: -295, y: -37}
+      - {x: -295, y: 28}
+    - - {x: -216, y: 42}
+      - {x: -216, y: -39}
+      - {x: -168, y: -39}
+      - {x: -168, y: 24}
+      - {x: -174, y: 42}
+    - - {x: 41, y: 41}
+      - {x: 41, y: -39}
+      - {x: 77, y: -39}
+      - {x: 89, y: -29}
+      - {x: 89, y: 31}
+      - {x: 88, y: 41}
+    - - {x: 181, y: 42}
+      - {x: 166, y: 26}
+      - {x: 166, y: -27}
+      - {x: 177, y: -39}
+      - {x: 214, y: -39}
+      - {x: 218, y: -32}
+      - {x: 218, y: 42}
+    - - {x: -66, y: 41}
+      - {x: -91, y: -3}
+      - {x: -91, y: -24}
+      - {x: -62, y: -38}
+      - {x: -43, y: -38}
+      - {x: -35, y: -17}
+      - {x: -35, y: 8}
+      - {x: -47, y: 41}
+    - - {x: 297, y: 41}
+      - {x: 296, y: 39}
+      - {x: 296, y: 32}
+      - {x: 298, y: 30}
+      - {x: 297, y: -38}
+      - {x: 319, y: -38}
+      - {x: 328, y: -35}
+      - {x: 346, y: 23}
+      - {x: 346, y: 41}
+    - - {x: 460, y: 43}
+      - {x: 436, y: 43}
+      - {x: 423, y: 30}
+      - {x: 423, y: -27}
+      - {x: 435, y: -38}
+      - {x: 474, y: -38}
+      - {x: 474, y: 39}
+    - - {x: 563, y: 44}
+      - {x: 549, y: 38}
+      - {x: 549, y: -37}
+      - {x: 553, y: -38}
+      - {x: 586, y: -38}
+      - {x: 601, y: -13}
+      - {x: 601, y: 31}
+      - {x: 592, y: 44}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

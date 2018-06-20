@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 3deee9731f5a41c45be0861a83d89c8e
+timeCreated: 1513219979
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: blackbord
+    100002: chair
+    100004: classroom
+    100006: //RootNode
+    100008: clock
+    100010: desk
+    100012: desk_set
+    100014: floor_
+    100016: group12
+    100018: group18
+    100020: group19
+    100022: group2
+    100024: group21
+    100026: group22
+    100028: group23
+    100030: group24
+    100032: kyoutaku
+    100034: kyoutaku 1
+    100036: pCube17
+    100038: pCube20
+    100040: pCube21
+    100042: pCube22
+    100044: pCube23
+    100046: pCube24
+    100048: pCube25
+    100050: pCube26
+    100052: pCube27
+    100054: pCube8
+    100056: pCylinder1
+    100058: pCylinder14
+    100060: pCylinder20
+    100062: pCylinder22
+    100064: pCylinder28
+    100066: pCylinder29
+    100068: pCylinder5
+    100070: rouka
+    100072: wall
+    100074: wall1
+    100076: wall2
+    400000: blackbord
+    400002: chair
+    400004: classroom
+    400006: //RootNode
+    400008: clock
+    400010: desk
+    400012: desk_set
+    400014: floor_
+    400016: group12
+    400018: group18
+    400020: group19
+    400022: group2
+    400024: group21
+    400026: group22
+    400028: group23
+    400030: group24
+    400032: kyoutaku
+    400034: kyoutaku 1
+    400036: pCube17
+    400038: pCube20
+    400040: pCube21
+    400042: pCube22
+    400044: pCube23
+    400046: pCube24
+    400048: pCube25
+    400050: pCube26
+    400052: pCube27
+    400054: pCube8
+    400056: pCylinder1
+    400058: pCylinder14
+    400060: pCylinder20
+    400062: pCylinder22
+    400064: pCylinder28
+    400066: pCylinder29
+    400068: pCylinder5
+    400070: rouka
+    400072: wall
+    400074: wall1
+    400076: wall2
+    2300000: blackbord
+    2300002: clock
+    2300004: floor_
+    2300006: group12
+    2300008: group18
+    2300010: group19
+    2300012: group2
+    2300014: group21
+    2300016: group24
+    2300018: pCube17
+    2300020: pCube20
+    2300022: pCube21
+    2300024: pCube22
+    2300026: pCube23
+    2300028: pCube25
+    2300030: pCube26
+    2300032: pCube27
+    2300034: pCube8
+    2300036: pCylinder1
+    2300038: pCylinder14
+    2300040: pCylinder20
+    2300042: pCylinder28
+    2300044: pCylinder29
+    2300046: pCylinder5
+    2300048: rouka
+    2300050: wall
+    2300052: wall1
+    2300054: wall2
+    3300000: blackbord
+    3300002: clock
+    3300004: floor_
+    3300006: group12
+    3300008: group18
+    3300010: group19
+    3300012: group2
+    3300014: group21
+    3300016: group24
+    3300018: pCube17
+    3300020: pCube20
+    3300022: pCube21
+    3300024: pCube22
+    3300026: pCube23
+    3300028: pCube25
+    3300030: pCube26
+    3300032: pCube27
+    3300034: pCube8
+    3300036: pCylinder1
+    3300038: pCylinder14
+    3300040: pCylinder20
+    3300042: pCylinder28
+    3300044: pCylinder29
+    3300046: pCylinder5
+    3300048: rouka
+    3300050: wall
+    3300052: wall1
+    3300054: wall2
+    4300000: floor_
+    4300002: wall
+    4300004: wall1
+    4300006: wall2
+    4300008: group18
+    4300010: group19
+    4300012: pCylinder28
+    4300014: group21
+    4300016: group24
+    4300018: pCube8
+    4300020: group2
+    4300022: pCylinder1
+    4300024: pCylinder5
+    4300026: pCylinder14
+    4300028: pCylinder20
+    4300030: group12
+    4300032: pCylinder29
+    4300034: rouka
+    4300036: blackbord
+    4300038: clock
+    4300040: pCube17
+    4300042: pCube20
+    4300044: pCube22
+    4300046: pCube23
+    4300048: pCube25
+    4300050: pCube21
+    4300052: pCube26
+    4300054: pCube27
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

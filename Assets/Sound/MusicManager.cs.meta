@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e10408008352b046acd5ad50cf56d1f
+timeCreated: 1513297856
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _audioSource: {instanceID: 0}
+  - titleBGM: {fileID: 8300000, guid: 1a45d5f2fc1eff146a9b29ffcc9357d7, type: 3}
+  - gameBGM: {fileID: 8300000, guid: fb9d170b55ab2a346bef65d544a9dcbc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
