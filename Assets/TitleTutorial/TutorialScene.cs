@@ -12,11 +12,11 @@ public class TutorialScene : MonoBehaviour {
     private Vector3 Target = new Vector3(0, 1, -0.1f);
     private Vector3 titlePos;
     
-    public bool isPressed;//ボタン入力受付制限
-    public bool isMoveUp = true;//
-    public bool isMoveDown = true;//
-    public bool isArriveDown = false;//下降完了
-    public bool isArriveUp = false;//上昇完了
+    bool isPressed;//ボタン入力受付制限
+    bool isMoveUp = true;//
+    bool isMoveDown = true;//
+    bool isArriveDown;//下降完了
+    bool isArriveUp;//上昇完了
 
     // Update is called once per frame
     void Update()
